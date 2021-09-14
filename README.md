@@ -1,9 +1,9 @@
 ## 👋 Ola 
-My name is João, I am from Portugal 🇵🇹 and currently live in London 🇬🇧. I am in my 3rd year of Computer Science at Birkbeck, University of London. 
+My name is João, I am from Portugal 🇵🇹 and currently live in London 🇬🇧. I am in my 3rd year of [Computer Science at Birkbeck, University of London](https://www.bbk.ac.uk/study/2021/undergraduate/programmes/UBSCOMPG_C/). 
 
 
 ## 🔭 I’m currently working on 
-An app to help me teach English to Spanish and Portuguese speakers. Check it out at [ingles.joalex.dev](ingles.joalex.dev).
+An app to help me teach English to Spanish and Portuguese speakers. Check it out at [ingles.joalex.dev](https://ingles.joalex.dev).
 
 I enjoy building web apps with Python and JavaScript. I really like Flask and VueJs, but I am familiar with other frameworks. 
 
