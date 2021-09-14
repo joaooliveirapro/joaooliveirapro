@@ -13,7 +13,7 @@ I love travelling have visited a few countries. My latest trip was to Edinburgh 
 ### 📫 How to reach me
 [hello@joalex.dev](mailto:hello@joalex.dev)
 
-[joalex.dev](joalex.dev)
+[joalex.dev](https://joalex.dev)
 
 Find me on Instagram [@silvjay](https://www.instagram.com/silvjay/)
 
