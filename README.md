@@ -1,19 +1,23 @@
 ### Hi there 👋
+
+<img src="https://github.com/j-000/j-000/blob/main/yo.jpg" width=250>
 My name is João, I am from Portugal 🇵🇹 and currently live in London 🇬🇧. I am in my 3rd year of Computer Science at Birkbeck, University of London. 
 
 
 ### 🔭 I’m currently working on 
-An app to help me teach English to Spanish and Portuguese speakers. Check it out at ingles.joalex.dev.
-I enjoy building web apps with Python and JavaScript. Most of the time I default to using Flask and VueJs, but I am familiar with
-other frameworks. 
+An app to help me teach English to Spanish and Portuguese speakers. Check it out at [ingles.joalex.dev](ingles.joalex.dev).
 
-I love travelling have visited a few countries. Here's my latest trip to Edinburgh where I climbed the top of Arthur's Seat. It wasn't easy!
+I enjoy building web apps with Python and JavaScript. I really like Flask and VueJs, but I am familiar with other frameworks. 
+
+I love travelling have visited a few countries. My latest trip was to Edinburgh where I climbed the top of Arthur's Seat (picture above). It wasn't easy!
 
 
 ### 📫 How to reach me
 [hello@joalex.dev](mailto:hello@joalex.dev)
 
 [joalex.dev](joalex.dev)
+
+Find me on Instagram [@silvjay](https://www.instagram.com/silvjay/)
 
 ---
 
