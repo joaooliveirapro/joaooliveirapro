@@ -7,7 +7,7 @@ An app to help me teach English to Spanish and Portuguese speakers. Check it out
 
 I enjoy building web apps with Python and JavaScript. I really like Flask and VueJs, but I am familiar with other frameworks. 
 
-I love travelling have visited a few countries. My latest trip was to Edinburgh where I climbed the top of Arthur's Seat (profile picture). It wasn't easy!
+I love travelling and have visited a few countries. My latest trip was to Edinburgh where I climbed the top of Arthur's Seat (profile picture). It wasn't easy!
 
 I recently started blogging ✍️ [blog.joalex.dev](https://blog.joalex.dev). Read my posts, share and comment. ❤️
 
