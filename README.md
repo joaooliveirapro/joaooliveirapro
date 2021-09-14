@@ -24,8 +24,7 @@ Find me on Instagram [@silvjay](https://www.instagram.com/silvjay/)
 
 ### My Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-000&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-000&hide=html&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-000&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
