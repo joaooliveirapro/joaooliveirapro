@@ -3,18 +3,18 @@ My name is João, I am from Portugal 🇵🇹 and currently live in London 🇬�
 
 
 ## 🔭 I’m currently working on 
-An app to help me teach English to Spanish and Portuguese speakers. Check it out at [ingles.joalex.dev](https://ingles.joalex.dev).
+A jobs aggregator that compiles hundreds of jobs from different sources. Check it out at [Greenfox](https://joalex.dev/greenfox).
 
-I enjoy building web apps with Python and JavaScript. I really like Flask and VueJs, but I am familiar with other frameworks. 
+I enjoy building web apps with Python and JavaScript ecosystems such as Flask or Django and VueJS or React.
 
-I love travelling and have visited a few countries. My latest trip was to Edinburgh where I climbed the top of Arthur's Seat (profile picture). It wasn't easy!
+I love travelling and have visited 9 countries. My latest trip was to Italy 🇮🇹 - I visited Rome, Napoli and the Amalfi coast.
 
 I recently started blogging ✍️ [blog.joalex.dev](https://blog.joalex.dev). Read my posts, share and comment. ❤️
 
-Fun fact about me: I can speak 4 languages fluently (PT 🇵🇹, EN 🇬🇧, ES 🇪🇸 and FR 🇫🇷)
+Fun fact about me: I can speak 3 languages fluently (PT 🇵🇹, EN 🇬🇧, ES 🇪🇸) I am learning FR 🇫🇷 and CN 🇨🇳!
 
 ## 📫 How to reach me
-[hello@joalex.dev](mailto:hello@joalex.dev)
+[Email Me!](mailto:joao00alex@gmail.com)
 
 [joalex.dev](https://joalex.dev)
 
