@@ -10,7 +10,7 @@ Radancy is a fantastic, supporting company full of opportunities for everyone. I
 ## Current projects 
 A jobs aggregator called [Greenfox](https://joalex.dev/greenfox) that compiles hundreds of jobs from different sources using standard web crawlers. The crawlers run on a schedule and upload the result to an `S3` private bucket which its data is accessed via the internal API created with `Flask-Restplus`.
 
-This project is hosted on a Digital Ocean `Droplet` running `Ubunto` and the application backend is runs with `gunicorn` on a few `Docker` containers. The frontend is developed using `VueJs 3` and `Bootstrap 5` and to connect these I setup `Nginx` as a reverse proxy and load balancer to distribute traffic to the containers and also to serve the VueJs dist files.  
+This project is hosted on a Digital Ocean `Droplet` running `Ubunto` and the application backend runs with `gunicorn` on a few `Docker` containers. The frontend is developed using `VueJs 3` and `Bootstrap 5` and to connect these I setup `Nginx` as a reverse proxy and load balancer to distribute traffic to the containers and also to serve the VueJs dist files.  
 
 ## Certifications I'm working on
 
