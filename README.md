@@ -5,13 +5,12 @@ I enjoy building web apps with `Python` and `JavaScript` ecosystems such as `Fla
 
 I love travelling and have visited 9 countries; my latest trip was to Rome, Napoli and the beautiful Amalfi coast in Italy.
 
-Radancy is a fantastic and supporting company to work for, with many opportunities for everyone go and check out [Radancy's careers page](https://www.radancy.com/careers?referred_by=joaooliveira_github) for open positions.
+Radancy is a fantastic, supporting company full of opportunities for everyone. If you're looking for a new adenture, check out [Radancy's careers page](https://www.radancy.com/careers?referred_by=joaooliveira_github) for open positions.
 
 ## Current projects 
 A jobs aggregator called [Greenfox](https://joalex.dev/greenfox) that compiles hundreds of jobs from different sources using standard web crawlers. The crawlers run on a schedule and upload the result to an `S3` private bucket which its data is accessed via the internal API created with `Flask-Restplus`.
 
 This project is hosted on a Digital Ocean `Droplet` running `Ubunto` and the application backend is runs with `gunicorn` on a few `Docker` containers. The frontend is developed using `VueJs 3` and `Bootstrap 5` and to connect these I setup `Nginx` as a reverse proxy and load balancer to distribute traffic to the containers and also to serve the VueJs dist files.  
-
 
 ## Certifications I'm working on
 
