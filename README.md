@@ -1,5 +1,5 @@
 ## About me
-My name is João, I'm 28, from Lisbon, Portugal and consider myself a tech enthusiast. I moved to the London in 2014, in 2019 I moved to Glasgow and since 2020 I have been living in Bedford . I am in my 4th, and last year of a part-time [Computer Science degree at Birkbeck, University of London](https://www.bbk.ac.uk/study/2021/undergraduate/programmes/UBSCOMPG_C/) and work full-time at [Radancy](radancy.com) as a Product Support Specialist. 
+My name is João, I'm 28, from Lisbon, Portugal and consider myself a tech enthusiast. I moved to the London in 2014, in 2019 I moved to Glasgow and since 2020 I have been living in Bedford. I am in my 4th, and last year of a part-time [Computer Science degree at Birkbeck, University of London](https://www.bbk.ac.uk/study/2021/undergraduate/programmes/UBSCOMPG_C/) and work full-time at [Radancy](radancy.com) as a Product Support Specialist. 
 
 I enjoy building web apps with `Python` and `JavaScript` ecosystems such as `Flask` or `Django` and `VueJS` or `React`. My long term professional goal is to have a successful career building all sorts of applications and have the opportunity to mentour other people and share my knowledge - I have always enjoyed teaching about technology .
 
