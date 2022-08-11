@@ -1,11 +1,11 @@
 ## About me
 My name is João, I'm 28, from Lisbon, Portugal and consider myself a tech enthusiast. I moved to the London in 2014, in 2019 I moved to Glasgow and since 2020 I have been living in Bedford. I am in my 4th, and last year of a part-time [Computer Science degree at Birkbeck, University of London](https://www.bbk.ac.uk/study/2021/undergraduate/programmes/UBSCOMPG_C/) and work full-time at [Radancy](radancy.com) as a Product Support Specialist. 
 
-I enjoy building web apps with `Python` and `JavaScript` ecosystems such as `Flask` or `Django` and `VueJS` or `React`. My long term professional goal is to have a successful career building all sorts of applications and have the opportunity to mentour other people and share my knowledge - I have always enjoyed teaching about technology .
+I enjoy building web apps with `Python` and `JavaScript` ecosystems such as `Flask` or `Django` and `VueJS` or `React`. My long term professional goal is to have a successful career building all sorts of applications and have the opportunity to mentour other people and share my knowledge - I have always enjoyed teaching about technology.
 
 I love travelling and have visited 9 countries; my latest trip was to Rome, Napoli and the beautiful Amalfi coast in Italy.
 
-Radancy is a fantastic, opportunities ridden and supporting company to work for, check out [Radancy's careers page](https://www.radancy.com/careers?referred_by=joaooliveira_github). 
+Radancy is a fantastic and supporting company to work for, with many opportunities for everyone go and check out [Radancy's careers page](https://www.radancy.com/careers?referred_by=joaooliveira_github) for open positions.
 
 ## Current projects 
 A jobs aggregator called [Greenfox](https://joalex.dev/greenfox) that compiles hundreds of jobs from different sources using standard web crawlers. The crawlers run on a schedule and upload the result to an `S3` private bucket which its data is accessed via the internal API created with `Flask-Restplus`.
