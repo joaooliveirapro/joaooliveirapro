@@ -4,9 +4,9 @@ My name is João, I'm 29, from Lisbon, Portugal and consider myself a tech enthu
 I am dedicated to continuous professional growth and staying abreast of emerging trends in the field of software development and data analysis. Actively pursuing additional certifications and engaging in self-directed learning to expand technical knowledge and expertise.
 
 ### Stats
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-000&show_icons=true&theme=transparent&include_all_commits=true)
+![João's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=j-000&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-000)](https://github.com/j-000/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j-000&include_all_commits=true&count_private=true)](https://github.com/j-000/github-readme-stats)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=j000)](https://github.com/j-000/github-readme-stats)
 
