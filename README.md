@@ -8,9 +8,9 @@ I can speak 3 languages fluently (PT 🇵🇹, EN 🇬🇧, ES 🇪🇸)
 
 
 ## 📊 Stats
-![João's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=j-000&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
+![João's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=j-000&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j-000&include_all_commits=true&count_private=true)](https://github.com/j-000/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j-000&include_all_commits=true&count_private=true)](https://github.com/j-000/github-readme-stats&layout=compact)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=j000)](https://github.com/j-000/github-readme-stats)
 
