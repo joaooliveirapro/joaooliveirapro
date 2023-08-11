@@ -28,4 +28,4 @@ I can speak 3 languages fluently (PT 🇵🇹, EN 🇬🇧, ES 🇪🇸)
 ## How to reach me
 [Email Me!](mailto:joao00alex@gmail.com)
 
-[joalex.dev](https://joalex.dev)
+[joalex.dev](https://www.joalex.dev)
