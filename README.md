@@ -12,7 +12,7 @@ I can speak 3 languages fluently (PT 🇵🇹, EN 🇬🇧, ES 🇪🇸)
 
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j-000&include_all_commits=true&count_private=true)](https://github.com/j-000/github-readme-stats&layout=compact)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@j000)](https://wakatime.com/@j000)
+[![João's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@j000)](https://wakatime.com/@j000)
 
 ## 💻 Favourite Tech Stach
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
