@@ -30,4 +30,3 @@ I can speak 3 languages fluently (PT 🇵🇹, EN 🇬🇧, ES 🇪🇸)
 
 [joalex.dev](https://joalex.dev)
 
-[![Joao's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=j000)](https://github.com/j-000/github-readme-stats)
