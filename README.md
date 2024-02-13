@@ -29,3 +29,5 @@ I can speak 3 languages fluently (PT 🇵🇹, EN 🇬🇧, ES 🇪🇸)
 [Email Me!](mailto:joao00alex@gmail.com)
 
 [joalex.dev](https://joalex.dev)
+
+[![Joao's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=j000)](https://github.com/j-000/github-readme-stats)
