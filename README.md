@@ -5,7 +5,7 @@ I have 8 years of experience in troubleshooting and enabling client solutions an
 
 In my spare time I like to build Typescript games and other web apps.
 
-Visit [my website](https://joalex.dev)
+Visit [my website](https://joalex.pro)
 
 
 ## 😄 Fun fact 
