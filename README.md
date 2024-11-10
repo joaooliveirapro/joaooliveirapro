@@ -1,14 +1,29 @@
-# 👋 Hi, my name is João
-I am a [Computer Science degree at Birkbeck, University of London](https://www.bbk.ac.uk/courses/undergraduate/computing) graduate and work at [Radancy](https://www.radancy.com) providing Software Support and Integration.
+<h1 align="center">👋 Hi, I'm João Oliveira</h1>
+<h3>🤩 A passionate Go and Python developer</h3>
 
+- 🔭 I’m currently working on **Sentinel**
+- 🌱 I’m currently mastering **Go!**
+- 💬 Ask me about **Go, Python, Automation and Books**
+- 📫 How to reach me **joao00alex@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/joaooliveirapro/](https://www.linkedin.com/in/joaooliveirapro/)
 
-## 💻 Favourite Tech Stach
+<hr>
 
-❤ ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-✨ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h3 align="left">⭐ Favourite programming languages</h3>
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<hr>
+
+<h3 align="left">🌐 Connect with me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joaooliveirapro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaooliveirapro" height="30" width="40" /></a>
+</p>
+
+<hr>
+
+<h3>📊 Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-000&show_icons=true&locale=en&layout=compact" alt="j-000" /></p>
