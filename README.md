@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **Sentinel**
 - 🌱 I’m currently mastering **Go!**
 - 💬 Ask me about **Go, Python, Automation and Books**
-- 📫 How to reach me **joao00alex@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/joaooliveirapro/](https://www.linkedin.com/in/joaooliveirapro/)
 
 <hr>
