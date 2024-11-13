@@ -25,4 +25,4 @@
 <hr>
 
 <h3>📊 Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-000&show_icons=true&locale=en&layout=compact" alt="j-000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaooliveirapro&show_icons=true&locale=en&layout=compact" alt="joaooliveirapro" /></p>
