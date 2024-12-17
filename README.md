@@ -1,11 +1,8 @@
 <h1 align="center">👋 Hi, I'm João Oliveira</h1>
 <h3>🤩 A passionate Go and Python developer</h3>
 
-- 🔭 I’m currently working on **Sentinel**
 - 🌱 I’m currently mastering **Go!**
 - 💬 Ask me about **Go, Python, Automation and Books**
-- 📄 Know about my experiences [https://www.linkedin.com/in/joaooliveirapro/](https://www.linkedin.com/in/joaooliveirapro/)
-
 <hr>
 
 <h3 align="left">⭐ Favourite programming languages</h3>
