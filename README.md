@@ -1,25 +1,19 @@
-<h1 align="center">👋 Hi, I'm João Oliveira</h1>
-<h3>🤩 A passionate Go and Python developer</h3>
+## Olá 👋 Glad to see you here!
 
-- 🌱 I’m currently mastering **Go!**
-- 💬 Ask me about **Go, Python, Automation and Books**
-<hr>
+I'm João and I have over 10 years experience in Software Support. I am passionate about developing robust programs, creating elegant and scalable APIs using **Golang** and **Python**.
 
-<h3 align="left">⭐ Favourite programming languages</h3>
+I'm an open-source enthusiast and believe that writing clean code is important. Simplicity is key to maintainability.
 
-<p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+Feel free to reach out to me at **joao00alex@gmail.com**. I look forward to hearing from you!
 
-<hr>
+## Languages and Tools:
 
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joaooliveirapro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaooliveirapro" height="30" width="40" /></a>
-</p>
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<hr>
-
-<h3>📊 Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaooliveirapro&show_icons=true&locale=en&layout=compact" alt="joaooliveirapro" /></p>
