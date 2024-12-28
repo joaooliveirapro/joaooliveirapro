@@ -1,8 +1,10 @@
 ## Olá 👋 Glad to see you here!
 
-I'm João and I have over 10 years experience in Software Support. I am passionate about developing robust programs, creating elegant and scalable APIs using **Golang** and **Python**.
+I'm João and I have over 10 years experience in Software Support. I am passionate about developing robust programs, creating elegant and scalable APIs using **Golang** and **Python**. I'm an open-source enthusiast and believe that writing clean code is important. Simplicity is key to maintainability.
 
-I'm an open-source enthusiast and believe that writing clean code is important. Simplicity is key to maintainability.
+**Currently studying**
+- MSc in Artificial Intelligence (2025/2027) with University of Hull, UK - (Online)
+- [GCP Cloud Digital Leader Learning Path](https://www.cloudskillsboost.google/paths/9)
 
 Feel free to reach out to me at **joao00alex@gmail.com**. I look forward to hearing from you!
 
