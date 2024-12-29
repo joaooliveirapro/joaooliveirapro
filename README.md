@@ -5,6 +5,7 @@ I'm João and I have over 10 years experience in Software Support. I am passiona
 **Currently studying**
 - MSc in Artificial Intelligence (2025/2027) with University of Hull, UK - (Online)
 - [GCP Cloud Digital Leader Learning Path](https://www.cloudskillsboost.google/paths/9)
+- [GCP Associate Cloud Engineer](https://www.cloudskillsboost.google/paths/11)
 
 Feel free to reach out to me at **joao00alex@gmail.com**. I look forward to hearing from you!
 
